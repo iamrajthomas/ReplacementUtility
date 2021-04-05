@@ -1,3 +1,13 @@
+//  -------------------------------------------------------------------------
+//  <copyright file="Git-Informative.txt"  author="Rajesh Thomas | iamrajthomas" >
+//      Copyright (c) 2021 All Rights Reserved.
+//  </copyright>
+// 
+//  <summary>
+//      Git Informative Text
+//  </summary>
+//  -------------------------------------------------------------------------
+
 Code Push to a New Repository in Git:
 
 1. Login to GitHub with Credential
@@ -18,3 +28,4 @@ Code Push to a New Repository in Git:
 6. Refresh the GIT Repository on browser and check if files are pushed.
 
 You should be good to go with now.
+
