@@ -1,0 +1,20 @@
+Code Push to a New Repository in Git:
+
+1. Login to GitHub with Credential
+2. Create a new Repository with a Valid Name on GitHub Portal
+3. Open file explorer and go to the same project location to be pushed into GitHub
+4. Right Click and Select Git Bash Here option and Git command prompt will Pop-up
+5. Type These Commands to Push
+	> git init
+	> git status
+	> git add .
+	> git status (Note: delete .vs folder if you find any db.lock permission denied error)
+	> git commit -m "<Commit-Message>"
+	> git remote add github <Repository-URL>.git
+	> git remote -v
+	> git push -f github master
+	> git log --oneline
+	
+6. Refresh the GIT Repository on browser and check if files are pushed.
+
+You should be good to go with now.
