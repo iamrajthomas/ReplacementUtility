@@ -24,6 +24,7 @@ Code Push to a New Repository in Git:
 	> git remote -v
 	> git push -f github master
 	> git log --oneline
+	> git pull origin master / git pull github master
 	
 6. Refresh the GIT Repository on browser and check if files are pushed.
 
